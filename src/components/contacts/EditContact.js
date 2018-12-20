@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Consumer } from '../../context';
 import TextInputGroup from '../layout/TextInputGroup';
 
+/*  */
 class EditContact extends Component {
   state = {
     name: '',
